@@ -1,2 +1,2 @@
 #test
-This is my test repository and new branch.
+This is test from existing local repo.
